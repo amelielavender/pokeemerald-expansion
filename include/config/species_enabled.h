@@ -17,7 +17,7 @@
 #define P_GEN_9_POKEMON                  FALSE // Generation 9 Pokémon (SV)
 
 // Setting this to TRUE will add the new evolutions to the Regional Dex.
-#define P_NEW_EVOS_IN_REGIONAL_DEX       TRUE
+#define P_NEW_EVOS_IN_REGIONAL_DEX       FALSE 
 
 // Battle gimmick specific Forms.
 #define P_MEGA_EVOLUTIONS                FALSE 
@@ -30,7 +30,7 @@
 #define P_FUSION_FORMS                   FALSE 
 
 // Regional Forms. Includes Regional Form evolutions, like Sirfetch'd.
-#define P_REGIONAL_FORMS                 TRUE
+#define P_REGIONAL_FORMS                 FALSE 
 #define P_ALOLAN_FORMS                   P_REGIONAL_FORMS
 #define P_GALARIAN_FORMS                 P_REGIONAL_FORMS
 #define P_HISUIAN_FORMS                  P_REGIONAL_FORMS
